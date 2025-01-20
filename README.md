@@ -3,6 +3,9 @@
 🔭 I’m currently studying **Computer Science and Health Science**
 
 🌱 I’m currently learning **bioinformatics, machine learning and artificial intelligence**
+
+⌨️ I’m using Github as a place to learn concepts through projects!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/shaunarshanbhag">LinkedIn</a>
