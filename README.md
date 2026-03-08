@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Shauna</h1>
 
-🔭 I’m currently studying **Computer Science and Health Science**
+🔭 I’m a **Computer Science and Health Science** graduate
 
-🌱 I’m currently learning **bioinformatics, machine learning and artificial intelligence**
+🌱 I’m currently learning **bioinformatics, data analysis, machine learning and artificial intelligence**
 
 ⌨️ I’m using Github as a place to learn concepts through projects!
 
